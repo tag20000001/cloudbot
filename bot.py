@@ -346,5 +346,5 @@ async def unmute(ctx, member: discord.Member):
 
         await bot.say(embed=embed)          
 
-bot.run("bot_token") 
+bot.run("BOT_TOKEN") 
 
