@@ -35,5 +35,4 @@ async def on_ready():
 
     print ("Started")
 
- 
-bot.run('your token')
+ bot.run(os.environ['BOT_TOKEN'])
