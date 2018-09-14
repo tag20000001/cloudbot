@@ -40,21 +40,21 @@ import traceback
 
 import io
 
-import inspect
 
-import random
 
-import functools
 
-import textwrap
 
-from urllib.parse import urlparse
 
-from contextlib import redirect_stdout
 
-discord.__version__
 
-'1.0.0a'
+
+
+
+
+
+
+
+
 
  
 
