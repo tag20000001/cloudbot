@@ -1,25 +1,5 @@
-import discord
-import asyncio
-from discord.ext.commands import bot
-from discord.ext import commands
-import platform
-import time
-import random
-from PIL import ImageSequence
-from PIL import Image
-from io import BytesIO
-import aiohttp
-from os import path
-import os
-import datetime
-import json
-import sys
-import os
-import re
-import string
-import traceback
-import io
-import inspect
-import random
-import functools
-import textwrap
+discord.py
+discord.py[voice]
+pyNaCl
+asyncio
+Status
